@@ -11,5 +11,6 @@ El objetivo de Scouting es inspirar a más estudiantes de colegios a estudiar in
 - Lizeth Bejarano (l.berajano1@uniandes.edu.co)
 - Maria Fernanda de la Hoz (m.delah@uniandes.edu.co)
 - María Paula Alarcón (mp.alarcon@uniandes.edu.co)
-- Simón Calderón (s.calderonl@uniandes.edu.co) 
+- Simón Calderón (s.calderonl@uniandes.edu.co)
+- Felipe Rueda Rivera (f.rueda4@uniandes.edu.co)
 
