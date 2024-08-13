@@ -6,12 +6,9 @@ El objetivo de Scouting es inspirar a más estudiantes de colegios a estudiar in
 ## Integrantes del equipo:
 
 - Angie Guiterres(ac.gutierrez@uniandes.edu.co)
-- David Santiago Gómez (ds.gomezm1@uniandes.edu.co)
 - Juan Esteban Triviño (J.trivinon@uniandes.edu.co)
 - Lizeth Bejarano (l.berajano1@uniandes.edu.co)
 - Maria Fernanda de la Hoz (m.delah@uniandes.edu.co)
 - María Paula Alarcón (mp.alarcon@uniandes.edu.co)
-- Simón Calderón (s.calderonl@uniandes.edu.co)
-- Felipe Rueda Rivera (f.rueda4@uniandes.edu.co)
 - Felipe Lancheros ( j.lancherosc@uniandes.edu.co )
 
